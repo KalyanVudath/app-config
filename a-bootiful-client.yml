@@ -1,13 +1,1 @@
-logging:
-	level:
-		pivotal:
-			io:DEBUG
-
-greeting:
-	displayFortune:true
-	
-management:
-	security:
-	enabled: false
-	
 message:Hello world
